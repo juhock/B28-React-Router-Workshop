@@ -22,6 +22,7 @@ body > div {
 #navbar {
   padding: 2em;
   justify-content: space-evenly;
+  text-decoration: wavy;
 }
 
 #main-section {
