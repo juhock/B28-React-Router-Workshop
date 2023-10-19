@@ -22,7 +22,10 @@ body > div {
 #navbar {
   padding: 2em;
   justify-content: space-evenly;
-  text-decoration: wavy;
+  font-size: 15px;
+  font-family: "Times New Roman", Times, serif;
+  border: 15px solid black;
+  text-decoration: dotted;
 }
 
 #main-section {
